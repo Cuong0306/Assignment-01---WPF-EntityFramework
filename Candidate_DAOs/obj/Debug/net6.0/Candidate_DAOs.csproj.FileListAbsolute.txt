@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.deps.json
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\bin\Debug\net6.0\Candidate_BussinessObjs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\bin\Debug\net6.0\Candidate_BussinessObjs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfo.cs
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidat.D06B1452.Up2Date
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\refint\Candidate_DAOs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_DAOs\obj\Debug\net6.0\ref\Candidate_DAOs.dll

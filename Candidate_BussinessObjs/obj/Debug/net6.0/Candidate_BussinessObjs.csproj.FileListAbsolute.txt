@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\bin\Debug\net6.0\Candidate_BussinessObjs.deps.json
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\bin\Debug\net6.0\Candidate_BussinessObjs.runtimeconfig.json
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\bin\Debug\net6.0\Candidate_BussinessObjs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\bin\Debug\net6.0\Candidate_BussinessObjs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.AssemblyInfo.cs
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\refint\Candidate_BussinessObjs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\Candidate_BussinessObjs.genruntimeconfig.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_BussinessObjs\obj\Debug\net6.0\ref\Candidate_BussinessObjs.dll

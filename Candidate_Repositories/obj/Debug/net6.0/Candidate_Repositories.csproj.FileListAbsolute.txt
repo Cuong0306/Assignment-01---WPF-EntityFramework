@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.deps.json
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_BussinessObjs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_DAOs.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_DAOs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\bin\Debug\net6.0\Candidate_BussinessObjs.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfo.cs
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidat.0571E3D3.Up2Date
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\refint\Candidate_Repositories.dll
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.pdb
+C:\Users\acer\Desktop\123\Cn5\PRN212\CandidateManagement_NguyenPhuCuong\Candidate_Repositories\obj\Debug\net6.0\ref\Candidate_Repositories.dll

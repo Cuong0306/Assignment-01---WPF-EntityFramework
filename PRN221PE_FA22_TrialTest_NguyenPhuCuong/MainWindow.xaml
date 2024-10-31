@@ -1,0 +1,31 @@
+﻿<Window x:Class="PRN221PE_FA22_TrialTest_NguyenPhuCuong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRN221PE_FA22_TrialTest_NguyenPhuCuong"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStyle="None">
+    <Window.FocusVisualStyle>
+        <Style/>
+    </Window.FocusVisualStyle>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            
+            
+            <ColumnDefinition/>
+            
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="357*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Email:" HorizontalAlignment="Left" Margin="118,139,0,0" VerticalAlignment="Top" Grid.Column="6"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="118,187,0,0" VerticalAlignment="Top" Grid.Column="6"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="194,187,0,0" VerticalAlignment="Top" Width="255" Height="26" Grid.Column="6"/>
+        <Button x:Name="btLogin" Content="Login" HorizontalAlignment="Left" Margin="194,239,0,0" VerticalAlignment="Top" Height="32" Width="114" Grid.Column="6" Click="btLogin_Click"/>
+        <Button x:Name="btCancel" Content="Cancel" HorizontalAlignment="Left" Margin="336,239,0,0" VerticalAlignment="Top" Height="32" Width="113" Click="btCancel_Click" Grid.Column="6"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="194,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="255" Height="26" Grid.Column="6"/>
+        <Label x:Name="Login_Screen" Content="Login" HorizontalAlignment="Left" Margin="284,86,0,0" VerticalAlignment="Top" FontSize="20" Grid.Column="6"/>
+
+    </Grid>
+</Window>
